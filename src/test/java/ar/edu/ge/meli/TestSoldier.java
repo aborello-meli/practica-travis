@@ -10,7 +10,7 @@ import org.junit.Test;
 public class TestSoldier {
     @Test
     public void soldierGetsShotOnceAgain() {
-        Double expectedBlood = 800.0;
+        Double expectedBlood = 900.0;
         Integer expectedBulletHoles = 1;
         Soldier soldier = new Soldier();
 
